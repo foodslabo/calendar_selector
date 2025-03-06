@@ -34,6 +34,15 @@
 - **プリセットの管理**: 保存したプリセットの名前変更や削除が可能です
 - **ショートカットキー**: キーボードショートカットを使用して素早くプリセットを切り替えることができます
 
+#### カレンダーグループの保存
+![カレンダーグループの保存](images/calendar_selector_save_group.png)
+
+#### カレンダーグループの管理
+![カレンダーグループの管理](images/calendar_selector_manage_groups.png)
+
+#### ショートカットキー
+![ショートカットキー](images/calendar_selector_shortcuts.png)
+
 ### 技術的な詳細
 - この拡張機能はGoogle Calendarのページに直接統合され、カレンダー選択UIを拡張します
 - Vue.jsとVuetifyを使用してUIコンポーネントを構築しています
