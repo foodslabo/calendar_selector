@@ -1,0 +1,36 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+/******** override default vuetify styles here *********/
+/* remove min-height from application--wrap */
+#calendar_selector_ui .application--wrap {
+  min-height: 0vh !important;
+}
+
+/* remove background from theme */
+#calendar_selector_ui .application.theme--light {
+  background: transparent !important;
+}
+
+
+/*
+ * after scoping vuetify css to #calendar_selector_ui, dropdown background is transparent
+ * we fix it here with a hard white background until we likely replace the component alltogheter
+ * menu item selection (gray highlight) doesn't work either
+ */
+#calendar_selector_ui .menu__content.menuable__content__active {
+  background: white
+}
+
+
+.kbd-hint {
+/*  box-shadow: inset 0 -2px 0 white, inset 0 -4px 0 red;*/
+  box-shadow: inset 0 2px 0 white, inset 0 -2px 0 red;
+}
+
+.cs-overlay {
+  position: absolute;
+  background: #fff;
+  opacity: 0.85;
+}
