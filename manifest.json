@@ -12,7 +12,6 @@
    "icons": {
       "128": "icons/cs128.png"
    },
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArQ1mHCSeFdvO0XnUkzauxADUzx1SfzneQGQ255q5zi3Y1sqgotBXzkgODY2uPtcYorEGs8kxiMzi408Hr3EMRVxR4Gjl/Q6a2Dr0krSYTvTWYKSMo6QVUH9ISw9gUMoodNZwv+3gz3HL9oOL+Nk67NZTrl5OeePhdE0u2Mj0dCKxBSGkkL5zjs6lVz9TiaB8yhSDJ3f4apwuKlQOTgF8PfINTepM7q4NzsXpY/w1Kj7WnkFMSJORfm1m2yxzc/K2yxzphRjIL5P27lwOabV3Seab5N/7epoErPG6t+KzRYMc66+hrK40mw5Nc6hZ0AYYxZTNmF24NVO6ppf7cKYPfQIDAQAB",
    "manifest_version": 3,
    "name": "Calendar Selector for Google Calendar",
    "permissions": [ "storage" ],
