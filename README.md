@@ -35,13 +35,19 @@
 - **ショートカットキー**: キーボードショートカットを使用して素早くプリセットを切り替えることができます
 
 #### カレンダーグループの保存
-![カレンダーグループの保存](images/calendar_selector_save_group.png)
+![カレンダーグループの保存](images/calendar_selector_interface.png)
 
-#### カレンダーグループの管理
-![カレンダーグループの管理](images/calendar_selector_manage_groups.png)
+#### カレンダーグループの復元
+![カレンダーグループの復元](images/calendar_selector_restore.png)
 
-#### ショートカットキー
-![ショートカットキー](images/calendar_selector_shortcuts.png)
+#### カレンダーグループのクリア
+![カレンダーグループのクリア](images/calendar_selector_clear.png)
+
+#### プリセット管理
+![プリセット管理](images/calendar_selector_presets.png)
+
+#### デバッグ機能
+![デバッグ機能](images/calendar_selector_debug.png)
 
 ### 技術的な詳細
 - この拡張機能はGoogle Calendarのページに直接統合され、カレンダー選択UIを拡張します
